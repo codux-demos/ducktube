@@ -1,6 +1,6 @@
 <div align="center">  
     <img height="50"src="./src/assets/codux.svg">  
-    <h1 >DuckTube</h1>
+    <h1 >Ducktube</h1>
 </div>
 
 ### A Visual IDE for React Projects
