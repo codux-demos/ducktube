@@ -9,7 +9,7 @@ Codux is an all-in-one visual development environment. Whether you’re starting
 
 ### Take it for a Spin
 
-This project, created by [codeSTACKr](https://www.youtube.com/@codeSTACKr), replicates a YouTube user interface, and it comes with an instructional [video](https://youtu.be/cKfevf-iIHA). To modify the components that compose the interface, follow the tutorial video along with the code in this project. 
+This project, created by [codeSTACKr](https://www.youtube.com/@codeSTACKr), replicates a YouTube user interface, and it comes with an instructional [video](https://www.youtube.com/watch?v=Gkq2PIOAnrU). To modify the components that compose the interface, follow the tutorial video along with the code in this project. 
 
 This project was bootstrapped with [`create-react-app`](https://github.com/facebook/create-react-app).
 
